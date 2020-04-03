@@ -1,7 +1,11 @@
 <template>
     <div class="header">
-        <div class="header-left">返回</div>
-        <div class="header-input">输入城市景点</div>
+        <div class="header-left">
+            <span class="iconfont">
+                &#xe720;   
+            </span>
+        </div>
+        <div class="header-input"></div>
         <div class="header-right">城市</div>
     </div>
 </template>
