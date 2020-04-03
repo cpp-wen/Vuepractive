@@ -3,9 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import './assets/styles/reset.css'
-import './assets/styles/border.css'
-import './assets/styles/iconfont.css'
+import 'styles/reset.css'
+import 'styles/border.css'
+import 'styles/iconfont.css'
 // 1像素边框问题
 import fastClick from 'fastclick'
 // 300ms click 问题延迟
